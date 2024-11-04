@@ -1,0 +1,26 @@
+.bg-primary-cstm {
+  background-color: rgb(33 40 56);
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(33 40 56);
+}
+.title-cstm {
+  color: rgb(255 106 0);
+}
+.list-group-item {
+  background-color: transparent !important;
+}
+
+.color-border-cstm {
+  border-color: rgb(255 106 0);
+  border-width: 8px;
+  opacity: 100;
+}
+
+.imgnotfound-cstm {
+  width: 40%;
+}
